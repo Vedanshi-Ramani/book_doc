@@ -1,0 +1,152 @@
+:root {
+    --primary-color: #0D6EFD;
+    --secondary-color: #20C997;
+    --text-color: #1f2937;
+    --muted-color: #6b7280;
+    --light-bg: #f8fbff;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: var(--text-color);
+    line-height: 1.7;
+    background-color: #fff;
+}
+
+img {
+    object-fit: cover;
+}
+
+section {
+    scroll-margin-top: 90px;
+}
+
+/* Header */
+.navbar-brand {
+    font-size: 1.35rem;
+}
+
+.navbar-nav .nav-link {
+    font-weight: 500;
+    color: var(--text-color);
+    transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+    color: var(--primary-color);
+}
+
+/* Hero */
+.hero-section {
+    background: linear-gradient(120deg, #f2f8ff 0%, #ffffff 100%);
+    padding: 100px 0;
+}
+
+.hero-card {
+    background: linear-gradient(145deg, #ffffff, #eef7ff);
+}
+
+/* Buttons */
+.btn {
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(13, 110, 253, 0.12);
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+}
+
+/* Cards */
+.card {
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08) !important;
+}
+
+/* Icons */
+.icon-box {
+    width: 52px;
+    height: 52px;
+    margin: 0 auto;
+}
+
+/* Form */
+.form-control,
+.form-select,
+.textarea {
+    border-radius: 0.9rem;
+    padding: 0.8rem 1rem;
+}
+
+.form-control:focus,
+.form-select:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.15);
+}
+
+/* Loader */
+.loader-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(255,255,255,0.9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+}
+
+/* Scroll To Top */
+.scroll-top-btn {
+    position: fixed;
+    right: 24px;
+    bottom: 24px;
+    width: 48px;
+    height: 48px;
+    display: none;
+    z-index: 1000;
+}
+
+/* Pagination */
+.page-link {
+    color: var(--primary-color);
+    border-radius: 0.5rem;
+    margin: 0 3px;
+}
+
+.page-item.active .page-link {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+/* Map Placeholder */
+.map-placeholder {
+    min-height: 220px;
+    border: 2px dashed #cfe2ff;
+    background: linear-gradient(45deg, #f8fbff, #eef7ff);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Utility */
+.rounded-4 {
+    border-radius: 1.2rem !important;
+}
+
+.section-heading {
+    margin-bottom: 2rem;
+}
+
+.badge {
+    font-weight: 500;
+}
+
+/* Breadcrumb */
+.breadcrumb {
+    background: transparent;
+    padding: 0;
+}

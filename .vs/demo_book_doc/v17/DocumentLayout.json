@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\sem-5\\ASP.NET\\demo_book_doc\\",
+  "WorkspaceRootPath": "E:\\sem-5\\ASP.NET\\book_doc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97AE32BC-8104-4148-B768-07ECFF2C75A9}|demo_book_doc\\demo_book_doc.csproj|e:\\sem-5\\asp.net\\demo_book_doc\\demo_book_doc\\demo2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{97AE32BC-8104-4148-B768-07ECFF2C75A9}|demo_book_doc\\demo_book_doc.csproj|e:\\sem-5\\asp.net\\book_doc\\demo_book_doc\\registarion-1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97AE32BC-8104-4148-B768-07ECFF2C75A9}|demo_book_doc\\demo_book_doc.csproj|solutionrelative:demo_book_doc\\registarion-1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AE32BC-8104-4148-B768-07ECFF2C75A9}|demo_book_doc\\demo_book_doc.csproj|e:\\sem-5\\asp.net\\book_doc\\demo_book_doc\\demo2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{97AE32BC-8104-4148-B768-07ECFF2C75A9}|demo_book_doc\\demo_book_doc.csproj|solutionrelative:demo_book_doc\\demo2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97AE32BC-8104-4148-B768-07ECFF2C75A9}|demo_book_doc\\demo_book_doc.csproj|e:\\sem-5\\asp.net\\demo_book_doc\\demo_book_doc\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{97AE32BC-8104-4148-B768-07ECFF2C75A9}|demo_book_doc\\demo_book_doc.csproj|E:\\sem-5\\ASP.NET\\book_doc\\demo_book_doc\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{97AE32BC-8104-4148-B768-07ECFF2C75A9}|demo_book_doc\\demo_book_doc.csproj|solutionrelative:demo_book_doc\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97AE32BC-8104-4148-B768-07ECFF2C75A9}|demo_book_doc\\demo_book_doc.csproj|E:\\sem-5\\ASP.NET\\demo_book_doc\\demo_book_doc\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{97AE32BC-8104-4148-B768-07ECFF2C75A9}|demo_book_doc\\demo_book_doc.csproj|E:\\sem-5\\ASP.NET\\book_doc\\demo_book_doc\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{97AE32BC-8104-4148-B768-07ECFF2C75A9}|demo_book_doc\\demo_book_doc.csproj|solutionrelative:demo_book_doc\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "demo2.aspx",
-              "DocumentMoniker": "E:\\sem-5\\ASP.NET\\demo_book_doc\\demo_book_doc\\demo2.aspx",
-              "RelativeDocumentMoniker": "demo_book_doc\\demo2.aspx",
-              "ToolTip": "E:\\sem-5\\ASP.NET\\demo_book_doc\\demo_book_doc\\demo2.aspx",
-              "RelativeToolTip": "demo_book_doc\\demo2.aspx",
+              "Title": "registarion-1.aspx",
+              "DocumentMoniker": "E:\\sem-5\\ASP.NET\\book_doc\\demo_book_doc\\registarion-1.aspx",
+              "RelativeDocumentMoniker": "demo_book_doc\\registarion-1.aspx",
+              "ToolTip": "E:\\sem-5\\ASP.NET\\book_doc\\demo_book_doc\\registarion-1.aspx",
+              "RelativeToolTip": "demo_book_doc\\registarion-1.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-02T12:58:37.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demo2.aspx",
+              "DocumentMoniker": "E:\\sem-5\\ASP.NET\\book_doc\\demo_book_doc\\demo2.aspx",
+              "RelativeDocumentMoniker": "demo_book_doc\\demo2.aspx",
+              "ToolTip": "E:\\sem-5\\ASP.NET\\book_doc\\demo_book_doc\\demo2.aspx",
+              "RelativeToolTip": "demo_book_doc\\demo2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-08-02T12:28:55.746Z",
               "EditorCaption": ""
@@ -43,11 +60,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "index.aspx",
-              "DocumentMoniker": "E:\\sem-5\\ASP.NET\\demo_book_doc\\demo_book_doc\\index.aspx",
+              "DocumentMoniker": "E:\\sem-5\\ASP.NET\\book_doc\\demo_book_doc\\index.aspx",
               "RelativeDocumentMoniker": "demo_book_doc\\index.aspx",
-              "ToolTip": "E:\\sem-5\\ASP.NET\\demo_book_doc\\demo_book_doc\\index.aspx",
+              "ToolTip": "E:\\sem-5\\ASP.NET\\book_doc\\demo_book_doc\\index.aspx",
               "RelativeToolTip": "demo_book_doc\\index.aspx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-08-02T12:18:55.405Z",
@@ -55,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Site1.Master",
-              "DocumentMoniker": "E:\\sem-5\\ASP.NET\\demo_book_doc\\demo_book_doc\\Site1.Master",
+              "DocumentMoniker": "E:\\sem-5\\ASP.NET\\book_doc\\demo_book_doc\\Site1.Master",
               "RelativeDocumentMoniker": "demo_book_doc\\Site1.Master",
-              "ToolTip": "E:\\sem-5\\ASP.NET\\demo_book_doc\\demo_book_doc\\Site1.Master",
+              "ToolTip": "E:\\sem-5\\ASP.NET\\book_doc\\demo_book_doc\\Site1.Master",
               "RelativeToolTip": "demo_book_doc\\Site1.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",

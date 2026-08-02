@@ -74,6 +74,7 @@
     <Content Include="admin\update-doctor.html" />
     <Content Include="css\responsive.css" />
     <Content Include="css\style.css" />
+    <Content Include="demo2.aspx" />
     <Content Include="doctor\appointments.html" />
     <Content Include="doctor\dashboard.html" />
     <Content Include="doctor\login.html" />
@@ -85,6 +86,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="demo2.aspx.cs">
+      <DependentUpon>demo2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="demo2.aspx.designer.cs">
+      <DependentUpon>demo2.aspx</DependentUpon>
+    </Compile>
     <Compile Include="index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
